@@ -45,13 +45,12 @@
 <div id="navbar" class="navbar-collapse collapse">
 <ul class="nav navbar-nav navbar-right">
 
-<li class="active "><a class="page-scroll" href="#page-top"><div style="color:black;">
-<span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</div></a></li>
-<li><a class="page-scroll" href="#skills"><div style="color:black;">Skills</div></a></li>
-<li><a class="page-scroll" href="#Projects"><div style="color:black;"> Projects</div></a></li>
-<li><a  class="page-scroll" href="#Aboutme"><div style="color:black;"> About Me</div></a></li>
- <li><a data-toggle="modal" data-target="#loginModal">
-<div style="color:black;"> Contact Me </div></a></li>
+<li class="active "><a class="page-scroll" href="#page-top">
+<span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a></li>
+<li><a class="page-scroll" href="#"></a></li>
+<li><a class="page-scroll" href="#"></a></li>
+<li><a  class="page-scroll" href="#"></a></li>
+ <li><a data-toggle="modal" data-target="#loginModal"></div></a></li>
 </ul>
 </div></div>
 </nav>
@@ -104,15 +103,15 @@
 <div class="item active">
 <img class="img-responsive " src="me2.png" alt="Skills" width="400px">
 <div class="carousel-caption name">
-<p style="font-size:38px;">Priyanka Vagadre </p><br>
-<p> Microsoft Certified Professional, Microsoft Specialist: Programming in HTML5 <br>with JavaScript & CSS3</p><br><br><br>
+<p style="font-size:38px;">Head content </p><br>
+<p>Description about the head</p><br><br><br>
 </div>
 </div>
 <div class="item">
 <img class="img-responsive " src="img.png" alt="Skills" width="450px">
 <div class="carousel-caption name">
 <p style="font-size:38px;">Key Skills</p><br>
-<p> HTML5, CSS3, JavaScript, C, C++, JQuery, AngularJs,</p><br> <br><br></div>
+<p> Description about skills</p><br> <br><br></div>
 </div>
 <div class="item">
 <img class="img-responsive " src="img14.png" alt="Skills" width="430px">
@@ -153,15 +152,11 @@
 </div></div>
 <div class="container" id="Aboutme" >
 <div class="row" style=" background-color: #c0c0c0"><div class="col-md-8" style="text-align:center";>
-<br> <br><br><br><h1>About Me</h1><br><h3> Microsoft Certified Professional
-</h3><br>
+<br> <br><br><br><h1>About Me</h1><br>
 <h4 style ="text-align:justify;padding-left:20px;">
-Priyanka Vagadre is graduate passed out from Sagar Institute Of Research and Technology Excellence Bhopal.
- Born in 1994, she have a passion towards developing good Web Applications.
- She is also Microsoft Certified Specialist in HTML5 with JavaScript and CSS3. 
-She is working on Javascript for past 2 years.</h4>
+Description about me.</h4>
 <br>
-<a href="/pdf/priyankavagadre_resume.pdf">Resume</a></div>
+<a href="">Resume</a></div>
 <div class="col-md-4">
 <br> <br><br><br><br>  <img src="313-512.png" width="300px"><br><br><br><br><br><br>
  </div></div>
@@ -170,19 +165,19 @@ She is working on Javascript for past 2 years.</h4>
 <div class="row" >
 
 <h3><b>Presence On Web</b></h3><br>
-<a href="https://www.facebook.com/PriyankaVagadre02" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+<a href="" target="_blank">
+        <img src="" alt="Facebook" />
     </a>
 	
-	<a href="https://www.linkedin.com/in/priyanka-vagadre-11a9b8a4?trk=nav_responsive_tab_profile" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
+	<a href="" target="_blank">
+        <img src="" alt="LinkedIn" />
     </a>
-	<a href="https://mobile.twitter.com/priyankawagadre" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+	<a href="" target="_blank">
+        <img src="" alt="Twitter" />
     </a>
-	<a href="https://github.com/PriyankaVagadre">
+	<a href="">
 	
-	<img src="git.png" width="70px;" alt="git"/>
+	<img src="" width="70px;" alt="git"/>
 	
 	
 	</a>
