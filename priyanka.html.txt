@@ -1,25 +1,4 @@
-<?php
-$to = 'priyankawagadre.pw@gmail.com';
-$subject= 'this is from your veiwer';
-$name=$_POST['firstname'];
-$Lname= $_POST['lastname'];
-$email=$_post['Email'];
-$message=$_POST['message'];
 
-$message=<<<EMAIL
- Hi this is $name.
-
-$message
-My email is $email.
-
-EMAIL;
-$header='$email';
-
-
-if($_POST){
-mail($to, $subject, $message, $header)
-}
-?>
 
 
 
@@ -369,7 +348,7 @@ She is working on Javascript for past 2 years.</h4>
 </div>
 
 <div class="footer">
-<br><h4>copyright© PriyankaVagadre</h4><br>
+<br><h4>copyrightÂ© PriyankaVagadre</h4><br>
 </div>
 </body>
 </html>
